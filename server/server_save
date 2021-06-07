@@ -1,0 +1,864 @@
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+[nodemon] restarting due to changes...
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+(node:4724) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added to [Bus]. Use emitter.setMaxListeners() to increase limit      
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:10
+const flash = require('express-session')
+      ^
+
+SyntaxError: Identifier 'flash' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+internal/modules/cjs/loader.js:888
+  throw err;
+  ^
+
+Error: Cannot find module 'method-override'
+Require stack:
+- C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)       
+    at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:11:26)   
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\pradh\\OneDrive\\Desktop\\node\\Ex\\server.js' ]        
+}
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+internal/modules/cjs/loader.js:888
+  throw err;
+  ^
+
+Error: Cannot find module 'method-override'
+Require stack:
+- C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)       
+    at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:11:26)   
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\pradh\\OneDrive\\Desktop\\node\\Ex\\server.js' ]        
+}
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+internal/modules/cjs/loader.js:888
+  throw err;
+  ^
+
+Error: Cannot find module 'method-override'
+Require stack:
+- C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)       
+    at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:11:26)   
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\pradh\\OneDrive\\Desktop\\node\\Ex\\server.js' ]        
+}
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+internal/modules/cjs/loader.js:888
+  throw err;
+  ^
+
+Error: Cannot find module 'method-override'
+Require stack:
+- C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)       
+    at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:11:26)   
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\pradh\\OneDrive\\Desktop\\node\\Ex\\server.js' ]        
+}
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+internal/modules/cjs/loader.js:888
+  throw err;
+  ^
+
+Error: Cannot find module 'method-override'
+Require stack:
+- C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)       
+    at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:11:26)   
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\pradh\\OneDrive\\Desktop\\node\\Ex\\server.js' ]        
+}
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+Error: Failed to lookup view "login.ejs" in views directory "C:\Users\pradh\OneDrive\Desktop\node\Ex\views"
+    at Function.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\response.js:1012:7)
+    at ServerResponse.res.render (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express-flash\lib\express-flash.js:29:16)
+    at C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:39:9
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at checkNotAuthenticated (C:\Users\pradh\OneDrive\Desktop\node\Ex\server.js:84:5) 
+    at Layer.handle [as handle_request] (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pradh\OneDrive\Desktop\node\Ex\node_modules\express\lib\router\route.js:112:3)
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
