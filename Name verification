@@ -1,0 +1,26 @@
+const  Myclass  = require("./sub");
+    //CoreModules
+const readline = require('readline');
+
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+rl.question("What is your Name?", (ans)=>{
+    if(ans === 'john'){
+        console.log("your Name Is Correct :\n" + ans);
+        rl.close();
+    }else{
+        rl.setPrompt("Wrong Name Try Again!");
+        rl.prompt();
+        rl.on('line',(inp)=>{
+            if(inp === 'john'){
+                rl.close();
+            }else{
+                rl.setPrompt("Wrong Name !" +" "+inp);
+                rl.prompt();
+            }
+        })
+    }
+})
